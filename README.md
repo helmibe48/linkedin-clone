@@ -31,6 +31,10 @@
 ```bash
 $ npm install
 ```
+## atau dengan cara
+```bash
+$ npm i
+```
 
 ## Running the app
 
